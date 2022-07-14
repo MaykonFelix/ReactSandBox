@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maykonfelix.github.io/csb-ltz6rp/static/css/main.8f373df3.chunk.css",
+    "main.js": "https://maykonfelix.github.io/csb-ltz6rp/static/js/main.a6e48b9d.chunk.js",
+    "main.js.map": "https://maykonfelix.github.io/csb-ltz6rp/static/js/main.a6e48b9d.chunk.js.map",
+    "runtime-main.js": "https://maykonfelix.github.io/csb-ltz6rp/static/js/runtime-main.00f92e00.js",
+    "runtime-main.js.map": "https://maykonfelix.github.io/csb-ltz6rp/static/js/runtime-main.00f92e00.js.map",
+    "static/js/2.91401941.chunk.js": "https://maykonfelix.github.io/csb-ltz6rp/static/js/2.91401941.chunk.js",
+    "static/js/2.91401941.chunk.js.map": "https://maykonfelix.github.io/csb-ltz6rp/static/js/2.91401941.chunk.js.map",
+    "index.html": "https://maykonfelix.github.io/csb-ltz6rp/index.html",
+    "static/css/main.8f373df3.chunk.css.map": "https://maykonfelix.github.io/csb-ltz6rp/static/css/main.8f373df3.chunk.css.map",
+    "static/js/2.91401941.chunk.js.LICENSE.txt": "https://maykonfelix.github.io/csb-ltz6rp/static/js/2.91401941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00f92e00.js",
+    "static/js/2.91401941.chunk.js",
+    "static/css/main.8f373df3.chunk.css",
+    "static/js/main.a6e48b9d.chunk.js"
+  ]
+}
